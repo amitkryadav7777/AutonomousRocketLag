@@ -1,6 +1,6 @@
 # AutonomousRocketLanding
 
-This is a game in which you can launch a rocket, for the 150000 height (which will be shown on the right top corner of the window).
+This is a game in which you can launch a rocket, for the maximum altitude of 150000  (which will be shown on the right top corner of the window).
 
 
 Controls for this game are follows-
