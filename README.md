@@ -3,7 +3,7 @@
 This is a game in which you can launch a rocket, for the maximum altitude of 150000  (which will be shown on the right top corner of the window).
 
 
-Follow below step to run this game-
+Follow below steps to run this game-
 
 1. Download zip file. 
 2. Extract this file. 
