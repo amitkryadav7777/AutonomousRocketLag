@@ -7,7 +7,8 @@ Follow below steps to run this game-
 
 1. Download zip file. 
 2. Extract this file. 
-3. Run Rocket.cpp file. 
+3. Compile Rocket.cpp file. 
+4. Run Rocket.exe file
 
 
 Controls for this game are follows-
