@@ -6,9 +6,8 @@ This is a game in which you can launch a rocket, for the maximum altitude of 150
 Follow below steps to run this game-
 
 1. Download zip file. 
-2. Extract this file. 
-3. Compile Rocket.cpp file. 
-4. Run Rocket.exe file
+2. Extract zip file. 
+3. Run Rocket.exe file
 
 
 Controls for this game are follows-
