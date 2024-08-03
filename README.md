@@ -3,6 +3,13 @@
 This is a game in which you can launch a rocket, for the maximum altitude of 150000  (which will be shown on the right top corner of the window).
 
 
+Follow below step to run this game-
+
+1. Download zip file. 
+2. Extract this file. 
+3. Run Rocket.cpp file. 
+
+
 Controls for this game are follows-
 
 d  -> Keep press d key for go in upward direction, it will be go at speed of +14 in upward direction.
@@ -22,6 +29,10 @@ It will land automatically and you have to do nothing.
 
 Imp :- **Caps lock** should be **OFF**, because controlers only work in small case.
 
+
+Requirements -
+
+1. You must have C++ compiler in your system. 
 
 
 
