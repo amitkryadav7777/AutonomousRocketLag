@@ -1,5 +1,7 @@
 // Rocket launching using computer graphics
 
+//    ***** This is main file *****
+
 #include "AutoRocket.cpp"
 #include <conio.h>
 #include <windows.h>
