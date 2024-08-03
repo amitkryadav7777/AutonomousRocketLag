@@ -6,8 +6,11 @@ This is a game in which you can launch a rocket, for the maximum altitude of 150
 Controls for this game are follows-
 
 d  -> Keep press d key for go in upward direction, it will be go at speed of +14 in upward direction.
+
 s  -> Keep pressed s key for the upward direction, it will be go at speed of +8 in upward direction.
+
 a  -> Keep pressed a , if you are near the ground it will go at speed of -2 downward for safe landing.
+
 l  -> Press one time l for autonomous landing.
 
 
