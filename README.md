@@ -21,6 +21,8 @@ a  -> Keep pressed a , if you are near the ground it will go at speed of -2 down
 l  -> Press one time l for autonomous landing.
 
 
+-->    Release all key for free fall. 
+
 
 ***  Press l (L) for AUTONOMOUS LANDING ***
 
