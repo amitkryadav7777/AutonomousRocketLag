@@ -34,7 +34,6 @@ Imp :- **Caps lock** should be **OFF**, because controlers only work in small ca
 
 Requirements -
 
-1. You must have C++ compiler in your system. 
-
+1. You must have C++ compiler in your system, if you don't want to execute Rocket.exe file. 
 
 
