@@ -31,7 +31,7 @@ void flight(int h) // 0
         initgraph(&gd, &gm, "C:\\MinGW\\BGI");
     }
 
-        outtextxy(150, 70, "Press  l ( L )  for  Autonumous Landing!");
+        outtextxy(150, 70, "Press  l ( L )  for  Autonomous Landing!");
         outtextxy(200, 100, "Press  a  for  -2  speed (Downward)");
         outtextxy(200, 130, "Press  s  for  +8  speed (Upward)");
         outtextxy(200, 160, "Press  d  for  +14 speed (Upward)");
